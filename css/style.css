@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrap{
+    width: 1000px;
+    height: 500px;
+    border: 10px solid black;
+    margin: 100px auto;
+}
+
+.con_wrap{
+    background-color: lightgray;
+}
+
+.con{
+    background-color:  salmon;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
